@@ -1,0 +1,22 @@
+Variable,Data Type,Description
+gender,String (str),"Gender of the respondent (e.g., Male, Female)"
+age,Integer (int),Age of the respondent
+university,String (str),Name of the respondent's university
+degree_level,String (str),"Academic level of the respondent (e.g., Undergraduate, Postgraduate)"
+degree_major,String (str),Respondent's major or field of study
+academic_year,String (str),"Current academic year of the respondent (e.g., 2nd year, 3rd year)"
+cgpa,String (str),"Respondent's cumulative grade point average (e.g., 2.5-3.0, 3.0-3.5)"
+residential_status,String (str),Whether the respondent lives on or off campus
+campus_discrimination,String (str),Whether the respondent has experienced discrimination on campus (Yes/No)
+sports_engagement,String (str),"Frequency of respondent's participation in sports (e.g., No Sports, 1-3 times)"
+average_sleep,String (str),Average sleep duration (in hours)
+study_satisfaction,Integer (int),Level of satisfaction with academic studies (scale: 1-5)
+academic_workload,Integer (int),Perceived academic workload (scale: 1-5)
+academic_pressure,Integer (int),Level of academic pressure experienced (scale: 1-5)
+financial_concerns,Integer (int),Level of financial concerns (scale: 1-5)
+social_relationships,Integer (int),Quality of social relationships (scale: 1-5)
+depression,Integer (int),Level of depression experienced (scale: 1-5)
+anxiety,Integer (int),Level of anxiety experienced (scale: 1-5)
+isolation,Integer (int),Level of isolation felt by the respondent (scale: 1-5)
+future_insecurity,Integer (int),Insecurity about the future (scale: 1-5)
+stress_relief_activities,String (str),"Activities used by the respondent to relieve stress (e.g., Online Entertainment, Sports)"
